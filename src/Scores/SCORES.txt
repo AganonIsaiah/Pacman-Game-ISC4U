@@ -1,0 +1,10 @@
+SCORES
+Isaiah's Score: 56625. Pellets consumed: 151. lives: 0.
+Isaiah's Score: 96525. Pellets consumed: 198. lives: 1.
+isaiah's Score: 93555. Pellets consumed: 198. lives: 4.
+Isaiah's Score: 8265. Pellets consumed: 58. lives: 0.
+isaiah's Score: 92565. Pellets consumed: 198. lives: 5.
+h's Score: 330. Pellets consumed: 12. lives: 0.
+Isaiah's Score: 22800. Pellets consumed: 96. lives: 0.
+Testing2's Score: 9765. Pellets consumed: 63. lives: 0.
+Testing5's Score: 31080. Pellets consumed: 112. lives: 0.
